@@ -83,6 +83,12 @@
     top: 178px;
   }
 }
+@media screen and (max-width: 321px) {
+  #link{
+    position: absolute;
+    top: 130px;
+  }
+}
 @media screen and (min-width: 1285px) {
   #link{
     position: absolute;
