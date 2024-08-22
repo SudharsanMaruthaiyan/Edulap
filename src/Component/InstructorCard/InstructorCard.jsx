@@ -5,7 +5,7 @@ const InstructorCard = (props) => {
         <div className="  shadow-xl p-2 pb-3 rounded-2xl border-[2px]  overflow-hidden mt-10 md:mt-16">
            <div className=" inline-block overflow-hidden relative">
                 <img className="hover:scale-125 transition-transform duration-500 object-cover" src={props.team1} alt="profile" />
-                <div className=" flex flex-col justify-center bg-[#525FE1] absolute bottom-0 " id="link">
+                <div className=" flex flex-col justify-center bg-[#525FE1] absolute bottom-0 ">
                     <div className=" hover:bg-[#ff4800ce] opacity-90 p-[15px]"><Twitter className=" stroke-white w-4 h-4"/> </div>
                     <div className=" hover:bg-[#ff4800ce] opacity-90 p-[15px]"> <Linkedin className=" stroke-white fill-white h-4 w-4"/></div>
                     <div className=" hover:bg-[#ff4800ce] opacity-90 p-[15px]"><Facebook className=" stroke-white fill-white h-4 w-4"/></div>
