@@ -77,33 +77,33 @@
 
 
 
-@media screen and (max-width: 376px) {
+/* @media screen and (max-width: 376px) {
   #link{
     position: absolute;
     top: 178px;
   }
-}
-@media screen and (max-width: 321px) {
+} */
+/* @media screen and (max-width: 321px) {
   #link{
     position: absolute;
     top: 130px;
   }
-}
+} */
 @media screen and (min-width: 1285px) {
-  #link{
+  /* #link{
     position: absolute;
     top: 129.3px;
-  }
+  } */
   #change{
     display: flex;
     flex-direction:  row;
   }
 }
 @media screen and (min-width: 1441px) and (max-width: 1920px){
-  #link{
+  /* #link{
     position: absolute;
     top: 146.3px;
-  }
+  } */
   #text{
     padding: 0px 280px;
     padding-top: 14px;
