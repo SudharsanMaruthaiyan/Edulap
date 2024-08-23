@@ -6,9 +6,9 @@ const InstructorCard = (props) => {
            <div className=" inline-block overflow-hidden relative">
                 <img className="hover:scale-125 transition-transform duration-500 object-cover" src={props.team1} alt="profile" />
                 <div className=" flex flex-col justify-center bg-black absolute bottom-0 ">
-                    <div className=" hover:bg-[#1176F0] opacity-90 p-[15px]"><Twitter className=" stroke-white w-4 h-4"/> </div>
-                    <div className=" hover:bg-[#1176F0] opacity-90 p-[15px]"> <Linkedin className=" stroke-white fill-white h-4 w-4"/></div>
-                    <div className=" hover:bg-[#1176F0] opacity-90 p-[15px]"><Facebook className=" stroke-white fill-white h-4 w-4"/></div>
+                    <div className=" hover:bg-[#1176F0] opacity-90 p-[15px]"><a href=""><Twitter className=" stroke-white w-4 h-4"/></a></div>
+                    <div className=" hover:bg-[#1176F0] opacity-90 p-[15px]"> <a href=""><Linkedin className=" stroke-white fill-white h-4 w-4"/></a> </div>
+                    <div className=" hover:bg-[#1176F0] opacity-90 p-[15px]"><a href=""><Facebook className=" stroke-white fill-white h-4 w-4"/></a></div>
                 </div>
             </div>
             <h1 className=" text-center font-[dmsans-b] text-[20px] pt-3">{props.name}</h1>

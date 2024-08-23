@@ -16,11 +16,11 @@ const Footer = () => {
               <p className=" text-white font-[hindu]">+91 80729 48266</p>
               <div>
               <div className="flex gap-4">
-                  <Facebook  className="cursor-pointer w-[7%] transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/>
-                  <Twitter className="cursor-pointer w-[7%] transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/>
-                  <Phone className="cursor-pointer w-[7%] transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/>
-                  <Linkedin className="cursor-pointer w-[7%] transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/>
-                  <Youtube className="cursor-pointer w-[7%] transition duration-300 hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/>
+                  <a  href=""><Facebook  className="cursor-pointer w-5 transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/></a>
+                  <a  href=""><Twitter className="cursor-pointer w-5 transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/></a>
+                  <a href=""><Phone className="cursor-pointer w-5 transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/></a>
+                  <a href=""><Linkedin className="cursor-pointer w-5 transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/></a>
+                  <a href=""><Youtube className="cursor-pointer w-5 transition duration-300 hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/></a>
               </div>
               </div>
             </div>
