@@ -1,6 +1,6 @@
 export const CardApi = [
     {
-        team1:"https://ik.imagekit.io/jjyo3gsee/images/team1.jpg?updatedAt=1724329068885",
+        team1:"https://ik.imagekit.io/jjyo3gsee/HI-Study/image/suganth.jpeg?updatedAt=1724425603905",
         name : "Sophia Martinez",
         domain: "Web designer",
         course_no:"04",
@@ -9,7 +9,7 @@ export const CardApi = [
         student:"Student"
     },
     {
-        team1:"https://ik.imagekit.io/jjyo3gsee/images/team2.jpg?updatedAt=1724329068968",
+        team1:"https://ik.imagekit.io/jjyo3gsee/HI-Study/image/suganth.jpeg?updatedAt=1724425603905",
         name : "Liam Johnson",
         domain: "Envato company",
         course_no:"06",
@@ -18,7 +18,7 @@ export const CardApi = [
         student:"Student"
     },
     {
-        team1:"https://ik.imagekit.io/jjyo3gsee/images/team3.jpg?updatedAt=1724329068881",
+        team1:"https://ik.imagekit.io/jjyo3gsee/HI-Study/image/suganth.jpeg?updatedAt=1724425603905",
         name : "Olivia Smith",
         domain: "Codecanyon",
         course_no:"13",
@@ -27,7 +27,7 @@ export const CardApi = [
         student:"Student"
     },
     {
-        team1:"https://ik.imagekit.io/jjyo3gsee/images/team4.jpg?updatedAt=1724329069032",
+        team1:"https://ik.imagekit.io/jjyo3gsee/HI-Study/image/suganth.jpeg?updatedAt=1724425603905",
         name : "Noah Brown",
         domain: "Web developer",
         course_no:"07",

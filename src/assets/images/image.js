@@ -1,4 +1,4 @@
-export const navlogo = "https://ik.imagekit.io/jjyo3gsee/images/secondary_logo.png?updatedAt=1724340122981";
+export const navlogo = "https://ik.imagekit.io/jjyo3gsee/HI-Study/image/footerlogo-removebg-preview.png?updatedAt=1724423932603";
 
 // style twele images 
 export const icon1="https://ik.imagekit.io/jjyo3gsee/images/icon5.webp?updatedAt=1724348102314";

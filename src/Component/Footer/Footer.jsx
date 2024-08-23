@@ -9,11 +9,11 @@ const Footer = () => {
         <div className=' bg-[#061E43]'>
           <div className=' 2xl:container w-[90%] lg:w-[78%] mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 pt-24 gap-10'> 
             <div className=' flex flex-col gap-3 pb-5 md:pb-0'>
-              <img className=" pt-2" src={navlogo} alt="logo" width={150}/>
+              <img className=" pt-2 -ml-2" src={navlogo} alt="logo" width={150}/>
               <p className=' text-[#B2BDcD] text-wrap font-[hindu] text-[16px] leading-7 pt-3'>when an unknown printer took galley of type and scrambled it to make pspecimen bookt has.
               </p>
-              <p className=" text-white font-[hindu] pt-3">463 7th Ave, NY 10018, USA</p>
-              <p className=" text-white font-[hindu]">+123 88 9900 456</p>
+              <p className=" text-white font-[hindu] pt-3">70 Kaliamman Kovil Street, Palanganatham Pasumpon Nagar, Madurai</p>
+              <p className=" text-white font-[hindu]">+91 80729 48266</p>
               <div>
               <div className="flex gap-4">
                   <Facebook  className="cursor-pointer w-[7%] transition duration-300 fill-white hover:fill-[#2f57ef] hover:stroke-[#2f57ef] stroke-white"/>
